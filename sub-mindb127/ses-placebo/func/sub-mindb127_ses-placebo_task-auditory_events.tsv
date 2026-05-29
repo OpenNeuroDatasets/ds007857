@@ -1,0 +1,13 @@
+onset	duration	trial_type	stim_name	response	response_time	accuracy
+0.0	20.0	music	Cello	n/a	n/a	1
+30.004	20.0	music	Guitar_catch	2.0	11.941	1
+59.992	20.0	speech	Ukranian_Catch	2.0	5.944	1
+89.996	20.0	speech	Macedonian	n/a	n/a	1
+120.0	20.0	music	Saxophone_catch	2.0	8.997	1
+149.988	20.0	speech	Sinhalese	n/a	n/a	1
+179.992	20.0	speech	Persian_catch	2.0	14.945	1
+209.996	20.0	music	Flute	n/a	n/a	1
+240.0	20.0	speech	Marathi_catch	2.0	17.931	1
+270.004	20.0	music	Piano	n/a	n/a	1
+299.991	20.0	speech	Swahili	n/a	n/a	1
+329.995	20.0	music	Violin_catch	2.0	3.496	1

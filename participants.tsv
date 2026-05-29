@@ -1,4 +1,68 @@
 participant_id	age	sex	age_category	group	education_years	mothers_education_years	race	ethnicity	hearing_aid	music_experience	music_years	moca	scanner_upgrade
+sub-mindb100	74	M	older	CN	16	12	White	Not Hispanic or Latino	no	yes	4	27	UHP_post_upgrade
+sub-mindb105	84	F	older	CN	21	12	White	Not Hispanic or Latino	no	yes	20	30	UHP_post_upgrade
+sub-mindb107	76	M	older	CN	21	12	White	Not Hispanic or Latino	no	no	n/a	27	UHP_post_upgrade
+sub-mindb109	74	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	2	29	UHP_post_upgrade
+sub-mindb116	78	F	older	CN	18	15	Black or African American	Not Hispanic or Latino	no	yes	75	28	UHP_post_upgrade
+sub-mindb118	75	F	older	CN	18	12	White	Not Hispanic or Latino	no	yes	68	28	UHP_post_upgrade
+sub-mindb123	74	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	60	27	UHP_post_upgrade
+sub-mindb127	75	F	older	CN	18	16	White	Not Hispanic or Latino	no	yes	45	26	UHP_post_upgrade
+sub-mindb129	72	M	older	CN	16	12	White	Not Hispanic or Latino	no	yes	5	27	UHP_post_upgrade
+sub-mindb132	69	M	older	MCI	14	10	White	Not Hispanic or Latino	no	no	n/a	22	UHP_post_upgrade
+sub-mindb133	76	M	older	CN	14	8	White	Not Hispanic or Latino	no	yes	2	21	UHP_post_upgrade
+sub-mindb139	79	M	older	CN	19	12	White	Not Hispanic or Latino	no	no	n/a	28	UHP_post_upgrade
+sub-mindb142	86	F	older	CN	12	n/a	White	Not Hispanic or Latino	no	no	n/a	25	UHP_post_upgrade
+sub-mindb144	74	F	older	CN	18	10	White	Not Hispanic or Latino	no	yes	2	24	UHP_post_upgrade
+sub-mindb151	69	F	older	CN	18	10	White	Not Hispanic or Latino	no	yes	7	29	UHP_post_upgrade
+sub-mindb157	78	M	older	CN	21	18	White	Not Hispanic or Latino	no	yes	72	29	UHP_post_upgrade
+sub-mindb158	75	F	older	MCI	21	12	Black or African American	Not Hispanic or Latino	no	yes	4	21	UHP_post_upgrade
+sub-mindb160	74	M	older	CN	14	12	White	Not Hispanic or Latino	no	no	n/a	23	UHP_post_upgrade
+sub-mindb161	78	M	older	CN	19	16	White	Not Hispanic or Latino	no	no	n/a	27	UHP_post_upgrade
+sub-mindb162	69	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	51	28	UHP_post_upgrade
+sub-mindb163	80	F	older	CN	18	13	White	Not Hispanic or Latino	no	yes	7	29	UHP_post_upgrade
+sub-mindb165	73	M	older	CN	16	12	White	Not Hispanic or Latino	no	no	n/a	23	UHP_post_upgrade
+sub-mindb166	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindb176	69	M	older	CN	12	12	White	Not Hispanic or Latino	no	no	n/a	22	UHP_post_upgrade
+sub-mindb178	74	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	7	25	UHP_post_upgrade
+sub-mindb180	75	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	2	26	UHP_post_upgrade
+sub-mindb182	71	F	older	n/a	18	12	White	Not Hispanic or Latino	no	yes	15	26	UHP_post_upgrade
+sub-mindb189	71	F	older	CN	18	12	White	Not Hispanic or Latino	no	yes	7	29	UHP_post_upgrade
+sub-mindb195	71	M	older	CN	18	12	White	Not Hispanic or Latino	no	no	n/a	26	UHP_post_upgrade
+sub-mindb205	68	F	older	CN	16	18	White	Not Hispanic or Latino	no	yes	10	26	UHP_post_upgrade
+sub-mindb209	70	F	older	CN	19	14	White	Not Hispanic or Latino	no	yes	2	29	UHP_post_upgrade
+sub-mindb212	72	F	older	n/a	13	16	White	Not Hispanic or Latino	no	yes	19	26	n/a
+sub-mindb213	74	M	older	CN	12	14	White	Not Hispanic or Latino	no	no	n/a	30	UHP_post_upgrade
+sub-mindb216	76	F	older	CN	14	11	White	Not Hispanic or Latino	no	yes	63	28	UHP_post_upgrade
+sub-mindb217	73	F	older	CN	19	12	White	Not Hispanic or Latino	no	no	n/a	29	UHP_post_upgrade
+sub-mindb220	69	M	older	MCI	14	12	White	Not Hispanic or Latino	no	no	n/a	17	UHP_post_upgrade
+sub-mindb227	70	F	older	CN	16	9	White	Not Hispanic or Latino	no	yes	12	27	UHP_post_upgrade
+sub-mindb228	79	M	older	CN	18	16	White	Not Hispanic or Latino	no	yes	70	25	UHP_post_upgrade
+sub-mindb231	75	F	older	CN	18	12	White	Not Hispanic or Latino	no	no	n/a	29	UHP_post_upgrade
+sub-mindb232	70	F	older	CN	16	14	White	Not Hispanic or Latino	no	no	n/a	25	UHP_post_upgrade
+sub-mindb233	68	F	older	CN	18	12	Black or African American	Not Hispanic or Latino	no	no	n/a	25	UHP_post_upgrade
+sub-mindb235	69	F	older	CN	16	12	Asian	Not Hispanic or Latino	no	yes	3	29	UHP_post_upgrade
+sub-mindb241	72	F	older	CN	18	12	White	Not Hispanic or Latino	no	yes	9	29	UHP_post_upgrade
+sub-mindb251	71	M	older	MCI	18	13	White	Not Hispanic or Latino	no	no	n/a	27	UHP_post_upgrade
+sub-mindb252	69	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	7	24	UHP_post_upgrade
+sub-mindb255	70	F	older	CN	18	16	White	Not Hispanic or Latino	no	yes	60	29	UHP_post_upgrade
+sub-mindb256	83	F	older	CN	16	15	White	Not Hispanic or Latino	no	yes	15	28	UHP_post_upgrade
+sub-mindb260	84	F	older	CN	18	8	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	no	no	n/a	25	UHP_post_upgrade
+sub-mindb261	71	F	older	CN	18	12	White	Not Hispanic or Latino	no	no	n/a	29	UHP_post_upgrade
+sub-mindb265	68	F	older	CN	14	12	White	Not Hispanic or Latino	no	no	n/a	26	UHP_post_upgrade
+sub-mindb270	78	M	older	CN	18	12	White	Not Hispanic or Latino	yes	yes	25	26	UHP_post_upgrade
+sub-mindb271	72	M	older	CN	18	16	White	Not Hispanic or Latino	no	yes	4	25	UHP_post_upgrade
+sub-mindb273	85	M	older	CN	14	18	White	Not Hispanic or Latino	no	no	n/a	25	UHP_post_upgrade
+sub-mindb274	78	M	older	CN	16	12	White	Not Hispanic or Latino	no	no	n/a	24	UHP_post_upgrade
+sub-mindb275	78	M	older	MCI	18	16	White	Not Hispanic or Latino	no	yes	5	25	UHP_post_upgrade
+sub-mindb278	75	F	older	MCI	18	12	Black or African American and White	Not Hispanic or Latino	no	no	n/a	24	UHP_post_upgrade
+sub-mindb280	71	F	older	CN	18	18	White	Not Hispanic or Latino	no	yes	4	27	UHP_post_upgrade
+sub-mindb281	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindb292	70	M	older	CN	18	12	White	Not Hispanic or Latino	no	yes	6	27	UHP_post_upgrade
+sub-mindb295	70	F	older	CN	18	12	White	Not Hispanic or Latino	no	no	n/a	28	UHP_post_upgrade
+sub-mindb299	75	M	older	CN	16	14	White	Not Hispanic or Latino	no	yes	2	23	UHP_post_upgrade
+sub-mindb304	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindb308	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindb311	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 sub-mindm300	74	M	older	MCI	19	18	White	Not Hispanic or Latino	no	yes	46	18	UHP_post_upgrade
 sub-mindm310	75	M	older	MCI	18	12	White	Not Hispanic or Latino	no	yes	12	22	UHP_post_upgrade
 sub-mindm324	69	M	older	MCI	16	16	White	Not Hispanic or Latino	yes	yes	4	23	UHP_post_upgrade
