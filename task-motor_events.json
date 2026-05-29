@@ -1,0 +1,10 @@
+{
+  "trial_type": {
+    "Description": "Type of block in the motor task",
+    "Levels": {
+      "fixation": "Fixation/rest period",
+      "left_hand": "Left-hand button press block",
+      "right_hand": "Right-hand button press block"
+    }
+  }
+}

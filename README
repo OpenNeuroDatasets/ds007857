@@ -1,0 +1,20 @@
+# Michigan Neural Distinctiveness (MiND) Study
+
+This dataset contains multimodal neuroimaging data collected as part of the MiND project,
+investigating the scope, causes, and consequences of age-related neural dedifferentiation.
+
+## Modalities
+- fMRI: visual categorization, auditory, motor, somatosensory tasks + resting state
+- T1-weighted structural MRI
+- Diffusion-weighted imaging (DWI/DTI)
+- MR Spectroscopy (MEGA-PRESS GABA-edited, 7 cortical ROIs)
+
+## Sessions
+- ses-placebo: fMRI + structural + DTI session
+- ses-mrs: MRS + structural session (separate day)
+
+## Scanner
+GE Discovery MR750 3T, 8-channel head coil
+University of Michigan Functional MRI Laboratory
+
+
