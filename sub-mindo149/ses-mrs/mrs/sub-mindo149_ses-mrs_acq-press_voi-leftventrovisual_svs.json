@@ -1,0 +1,42 @@
+{
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "MagneticFieldStrength": 3,
+  "ResonantNucleus": "1H",
+  "SpectrometerFrequency": [
+    127.74
+  ],
+  "SpectralWidth": 5000,
+  "EchoTime": 0.068,
+  "RepetitionTime": 1.8,
+  "NumberOfTransients": 256,
+  "VoxelSize": [
+    30,
+    30,
+    30
+  ],
+  "PulseSequenceType": "MEGA-PRESS",
+  "WaterSuppression": true,
+  "InstitutionName": "University of Michigan",
+  "InstitutionAddress": "Ann Arbor, MI, USA",
+  "InstitutionalDepartmentName": "Department of Psychology",
+  "DeviceSerialNumber": "n/a",
+  "SoftwareVersions": "n/a",
+  "ReceiveCoilName": "8-channel head coil",
+  "StationName": "n/a",
+  "PulseSequenceDetails": "GE PROBE-P MEGA-PRESS with VAPOR water suppression",
+  "NonStandardWaterSuppression": false,
+  "ExcitationFlipAngle": 90,
+  "RefocusingFlipAngle": 180,
+  "DwellTime": 0.0002,
+  "AcquisitionDuration": 460.8,
+  "dim_5": "DIM_COIL",
+  "dim_6": "DIM_DYN",
+  "dim_7": "DIM_EDIT",
+  "NumberOfSpectralPoints": 4096,
+  "MixingTime": 0,
+  "EditingFrequency": [
+    1.9,
+    7.46
+  ]
+}

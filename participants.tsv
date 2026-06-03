@@ -1,5 +1,45 @@
 participant_id	age	sex	age_category	group	education_years	mothers_education_years	race	ethnicity	hearing_aid	music_experience	music_years	moca	scanner_upgrade
 sub-mindo100	69	M	older	CN	16	12	White	Not Hispanic or Latino	no	n/a	n/a	29	MR750_pre_upgrade
+sub-mindo105	79	F	older	CN	21	12	White	Not Hispanic or Latino	no	yes	20	30	MR750_pre_upgrade
+sub-mindo107	71	M	older	CN	21	12	White	Not Hispanic or Latino	no	no	n/a	30	MR750_pre_upgrade
+sub-mindo108	78	F	older	CN	14	12	White	Not Hispanic or Latino	no	no	n/a	30	MR750_pre_upgrade
+sub-mindo109	69	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	2	29	MR750_pre_upgrade
+sub-mindo114	65	M	older	CN	18	12	White	Not Hispanic or Latino	no	yes	2	30	MR750_pre_upgrade
+sub-mindo115	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindo116	73	F	older	CN	18	15	Black or African American	Not Hispanic or Latino	no	yes	70	29	MR750_pre_upgrade
+sub-mindo118	69	F	older	CN	18	12	White	Not Hispanic or Latino	no	yes	63	29	MR750_pre_upgrade
+sub-mindo120	67	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	6	26	MR750_pre_upgrade
+sub-mindo123	69	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	60	29	MR750_pre_upgrade
+sub-mindo124	74	M	older	CN	16	12	White	Not Hispanic or Latino	no	yes	50	26	MR750_pre_upgrade
+sub-mindo127	70	F	older	CN	18	16	White	Not Hispanic or Latino	no	yes	40	28	MR750_pre_upgrade
+sub-mindo129	67	M	older	CN	16	12	White	Not Hispanic or Latino	no	yes	5	29	MR750_pre_upgrade
+sub-mindo132	65	M	older	n/a	14	10	White	Not Hispanic or Latino	no	no	n/a	25	MR750_pre_upgrade
+sub-mindo133	71	M	older	CN	14	8	White	Not Hispanic or Latino	no	yes	2	23	MR750_pre_upgrade
+sub-mindo139	74	M	older	CN	19	12	White	Not Hispanic or Latino	no	no	n/a	27	MR750_pre_upgrade
+sub-mindo140	69	M	older	n/a	14	12	White	Not Hispanic or Latino	no	no	n/a	24	MR750_pre_upgrade
+sub-mindo141	67	F	older	CN	18	12	Black or African American	Not Hispanic or Latino	no	yes	56	27	MR750_pre_upgrade
+sub-mindo142	81	F	older	CN	12	n/a	White	Not Hispanic or Latino	no	no	n/a	27	MR750_pre_upgrade
+sub-mindo143	66	F	older	CN	18	9	White	Not Hispanic or Latino	no	yes	15	27	MR750_pre_upgrade
+sub-mindo144	69	F	older	CN	18	10	White	Not Hispanic or Latino	no	yes	2	29	MR750_pre_upgrade
+sub-mindo149	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-mindo150	67	F	older	CN	16	10	White	Not Hispanic or Latino	no	no	n/a	25	MR750_pre_upgrade
+sub-mindo151	65	F	older	CN	18	10	White	Not Hispanic or Latino	no	yes	7	30	MR750_pre_upgrade
+sub-mindo152	71	M	older	CN	16	12	White	Not Hispanic or Latino	no	no	n/a	26	MR750_pre_upgrade
+sub-mindo153	69	F	older	CN	18	12	White	Not Hispanic or Latino	no	yes	50	28	MR750_pre_upgrade
+sub-mindo154	65	F	older	CN	18	14	White	Not Hispanic or Latino	no	yes	55	27	MR750_pre_upgrade
+sub-mindo155	66	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	2	28	MR750_pre_upgrade
+sub-mindo156	70	M	older	CN	18	18	White	Not Hispanic or Latino	no	yes	4	24	MR750_pre_upgrade
+sub-mindo157	74	M	older	CN	21	18	White	Not Hispanic or Latino	no	yes	68	28	MR750_pre_upgrade
+sub-mindo158	71	F	older	n/a	21	12	Black or African American	Not Hispanic or Latino	no	yes	4	29	MR750_pre_upgrade
+sub-mindo159	75	F	older	CN	18	13	White	Not Hispanic or Latino	no	yes	50	27	MR750_pre_upgrade
+sub-mindo160	70	M	older	CN	14	12	White	Not Hispanic or Latino	no	no	n/a	25	MR750_pre_upgrade
+sub-mindo161	74	M	older	CN	19	16	White	Not Hispanic or Latino	no	no	n/a	24	MR750_pre_upgrade
+sub-mindo162	65	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	50	28	MR750_pre_upgrade
+sub-mindo163	76	F	older	CN	18	13	White	Not Hispanic or Latino	no	yes	7	29	MR750_pre_upgrade
+sub-mindo164	75	F	older	CN	16	12	White	Not Hispanic or Latino	no	yes	10	26	MR750_pre_upgrade
+sub-mindo165	69	M	older	CN	16	12	White	Not Hispanic or Latino	no	no	n/a	24	MR750_pre_upgrade
+sub-mindo166	87	F	older	CN	18	14	White	Not Hispanic or Latino	no	no	n/a	26	MR750_pre_upgrade
+sub-mindo168	78	F	older	n/a	18	14	White	Not Hispanic or Latino	no	no	n/a	27	MR750_pre_upgrade
 sub-mindb107	76	M	older	CN	21	12	White	Not Hispanic or Latino	no	no	n/a	27	UHP_post_upgrade
 sub-mindb109	74	F	older	CN	16	16	White	Not Hispanic or Latino	no	yes	2	29	UHP_post_upgrade
 sub-mindb116	78	F	older	CN	18	15	Black or African American	Not Hispanic or Latino	no	yes	75	28	UHP_post_upgrade
