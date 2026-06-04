@@ -1,9 +1,0 @@
-{
-  "trial_type": {
-    "Description": "Type of stimulus block in the visual task",
-    "Levels": {
-      "face": "20-s block of face images",
-      "house": "20-s block of house images"
-    }
-  }
-}
