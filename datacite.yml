@@ -87,13 +87,20 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 12
-      - name: Thad A. Polk
+      - name: Shuhao Cao
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 13
+      - name: Thad A. Polk
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
     creators:
       - name: Molly Simmonite
         nameType: Personal
@@ -118,6 +125,8 @@ data:
       - name: Poortata Lalwani
         nameType: Personal
       - name: Tien Yang
+        nameType: Personal
+      - name: Shuhao Cao
         nameType: Personal
       - name: Thad A. Polk
         nameType: Personal
