@@ -10,14 +10,14 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Holly Gagnon
+      - name: Erin Freiburger
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Erin Freiburger
+      - name: Holly Gagnon
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -97,9 +97,9 @@ data:
     creators:
       - name: Molly Simmonite
         nameType: Personal
-      - name: Holly Gagnon
-        nameType: Personal
       - name: Erin Freiburger
+        nameType: Personal
+      - name: Holly Gagnon
         nameType: Personal
       - name: Abbey Hamlin
         nameType: Personal
