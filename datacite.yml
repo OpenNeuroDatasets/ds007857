@@ -1,0 +1,54 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Molly Simmonite
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Thad A. Polk
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Holly Gagnon
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Erin Freiburger
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Abbey
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+    creators:
+      - name: Molly Simmonite
+        nameType: Personal
+      - name: Thad A. Polk
+        nameType: Personal
+      - name: Holly Gagnon
+        nameType: Personal
+      - name: Erin Freiburger
+        nameType: Personal
+      - name: Abbey
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
