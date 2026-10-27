@@ -15,5 +15,7 @@
   "DeviceSerialNumber": "n/a",
   "SoftwareVersions": "n/a",
   "ReceiveCoilName": "8-channel head coil",
-  "BodyPartExamined": "BRAIN"
+  "BodyPartExamined": "BRAIN",
+  "PhaseEncodingDirection": "j-",
+  "TotalReadoutTime": 0.0627
 }

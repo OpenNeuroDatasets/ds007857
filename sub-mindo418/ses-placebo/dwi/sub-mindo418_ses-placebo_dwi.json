@@ -11,7 +11,7 @@
   "NumberOfDiffusionDirections": 32,
   "PhaseEncodingDirection": "j-",
   "EffectiveEchoSpacing": 0.000512,
-  "TotalReadoutTime": 0.026112,
+  "TotalReadoutTime": 0.099524,
   "InstitutionName": "University of Michigan",
   "InstitutionAddress": "Ann Arbor, MI, USA",
   "InstitutionalDepartmentName": "Department of Psychology",
