@@ -1,0 +1,14 @@
+{
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "MagneticFieldStrength": 3,
+  "PulseSequenceType": "3D SPGR BRAVO",
+  "RepetitionTime": 0.0122,
+  "EchoTime": 0.0052,
+  "InversionTime": 0.5,
+  "FlipAngle": 15,
+  "NumberOfSlices": 156,
+  "SliceThickness": 1.0,
+  "SpacingBetweenSlices": 0,
+  "PhaseEncodingDirection": "j"
+}
