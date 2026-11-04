@@ -1,0 +1,7 @@
+{
+  "PhaseEncodingDirection": "j",
+  "TotalReadoutTime": 0.0627,
+  "IntendedFor": "ses-placebo/dwi/sub-mindm366_ses-placebo_dwi.nii.gz",
+  "B0FieldIdentifier": "revpe_mindm366",
+  "Description": "Reverse phase-encode b0 (from fm_rev_pol.nii) for topup"
+}

@@ -1,0 +1,23 @@
+{
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "PulseSequenceType": "2D dual spin echo EPI",
+  "RepetitionTime": 7.25,
+  "EchoTime": 0.0025,
+  "NumberOfSlices": 60,
+  "SliceThickness": 2.4,
+  "SpacingBetweenSlices": 0.1,
+  "NumberOfDiffusionDirections": 32,
+  "PhaseEncodingDirection": "j-",
+  "EffectiveEchoSpacing": 0.000512,
+  "TotalReadoutTime": 0.099524,
+  "InstitutionName": "University of Michigan",
+  "InstitutionAddress": "Ann Arbor, MI, USA",
+  "InstitutionalDepartmentName": "Department of Psychology",
+  "DeviceSerialNumber": "n/a",
+  "SoftwareVersions": "n/a",
+  "ReceiveCoilName": "8-channel head coil",
+  "StationName": "n/a",
+  "BodyPartExamined": "BRAIN"
+}
