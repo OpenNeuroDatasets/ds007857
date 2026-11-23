@@ -1,0 +1,15 @@
+{
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "MagneticFieldStrength": 3,
+  "PulseSequenceType": "2D dual spin echo EPI",
+  "RepetitionTime": 7.25,
+  "EchoTime": 0.0025,
+  "PhaseEncodingDirection": "j-",
+  "TotalReadoutTime": 0.026112,
+  "EffectiveEchoSpacing": 0.000512,
+  "NumberOfSlices": 60,
+  "SliceThickness": 2.4,
+  "SpacingBetweenSlices": 0.1,
+  "NumberOfDiffusionDirections": 32
+}

@@ -1,0 +1,13 @@
+onset	duration	trial_type	response	response_time	accuracy
+0.0	20.0	music	n/a	n/a	1
+30.005	20.0	music	2	11.89	1
+59.993	20.0	speech	2	5.902	1
+89.997	20.0	speech	n/a	n/a	1
+120.002	20.0	music	2	8.918	1
+149.99	20.0	speech	n/a	n/a	1
+179.994	20.0	speech	2	14.882	1
+209.998	20.0	music	n/a	n/a	1
+240.003	20.0	speech	2	17.889	1
+269.99	20.0	music	n/a	n/a	1
+299.994	20.0	speech	n/a	n/a	1
+329.999	20.0	music	2	3.051	1

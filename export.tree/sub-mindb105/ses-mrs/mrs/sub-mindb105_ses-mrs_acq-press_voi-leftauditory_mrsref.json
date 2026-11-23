@@ -1,0 +1,14 @@
+{
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "MagneticFieldStrength": 3,
+  "ResonantNucleus": "1H",
+  "SpectrometerFrequency": [127.74],
+  "SpectralWidth": 5000,
+  "EchoTime": 0.068,
+  "RepetitionTime": 1.8,
+  "NumberOfTransients": 16,
+  "VoxelSize": [30, 30, 30],
+  "PulseSequenceType": "MEGA-PRESS",
+  "WaterSuppression": false
+}
